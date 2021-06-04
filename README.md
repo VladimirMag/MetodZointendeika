@@ -1,0 +1,2 @@
+# MetodZointendeika
+Aproximation Method
